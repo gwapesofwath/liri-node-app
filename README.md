@@ -1,1 +1,1 @@
-# liri-node-app
+Liri is a command line interface node app that takes in a command(spotify-this-song, movie-this, my-tweets, or do-what-it-says) and a parameter(song title, movie name, or a twitter ID) and returns specific data corresponding to the command and parameter.
