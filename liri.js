@@ -10,7 +10,8 @@ var request = require("request");
 
 //Command variables
 var command = process.argv[2];
-var parameter = process.argv[3];
+var parameter = process.argv.slice(3).join(" ");
+
 
 
 //Access key variables
